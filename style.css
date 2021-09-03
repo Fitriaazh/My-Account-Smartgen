@@ -1,0 +1,22 @@
+
+  body {
+    background-color: rgb(189, 228, 205);
+   }
+
+   @font-face {
+       font-family: My Account;
+       src: url(Lemonada-VariableFont_wght.ttf);
+   }
+
+   h1{
+       font-family: 'My Account';
+       font-style: bold;
+       font-size: 16px;
+       line-height: 16px;
+       line-height: 50%;
+       align-items: center;
+       vertical-align: top;
+       color: black;
+   }
+
+  
